@@ -1,13 +1,13 @@
 //
-//  InboxViewController.swift
+//  ExplorerViewController.swift
 //  semana7_airbnb
 //
-//  Created by MAC09 on 10/11/21.
+//  Created by MAC09 on 24/11/21.
 //
 
 import UIKit
 
-class InboxViewController: UIViewController {
+class ExplorerViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
